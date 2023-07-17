@@ -1,2 +1,2 @@
 # LeetCode
-My stream leetcode problems solution.
+My stream LeetCode problems solution.
